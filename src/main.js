@@ -1,9 +1,12 @@
+import { createApp } from 'vue'
 import Vue from 'vue'
 import App from './App.vue'
-import VueSplide from '@splidejs/vue-splide'
 import './index.css'
+import router from './router'
 
-Vue.use( VueSplide );
+
+createApp(App).use(router).mount('#app')
+
 
 Vue.config.productionTip = false
 

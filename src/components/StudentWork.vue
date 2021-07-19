@@ -1,5 +1,4 @@
 <template>
-
   <section id="student" class="h-full col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6 h-full px-16 py-6 " style="background-color: #6c81a5">
     <div>
       <div class="relative items-center justify-center">
@@ -49,6 +48,4 @@
       </div>
     </div>
  </section>
-
-
 </template>
