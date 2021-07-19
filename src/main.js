@@ -1,16 +1,33 @@
-// import { createApp } from 'vue'
 import Vue from 'vue'
 import App from './App'
 import './index.css'
-// import router from './router'
+import Router from "vue-router";
+import Home from "./components/Home"
+import Studentp from "./components/Studentp";
 
 
-// createApp(App).use(router).mount('#app')
+
+Vue.use(Router);
+
+
+const routes = [
+  {
+    path: "/", component: Home
+  },
+  {
+    path: "/student", component: Studentp
+  }
+];
+
+const router = new Router({
+  routes
+});
 
 
 Vue.config.productionTip = false
 
 
 new Vue({
+  router,
   render: h => h(App),
 }).$mount('#app')
