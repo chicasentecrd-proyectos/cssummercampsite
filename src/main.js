@@ -3,7 +3,7 @@ import App from './App'
 import './index.css'
 import Router from "vue-router";
 import Home from "./components/Home"
-import Studentp from "./components/Studentp";
+import Studentp from "./components/studentp"
 
 Vue.use(Router);
 
