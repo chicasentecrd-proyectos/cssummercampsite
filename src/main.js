@@ -5,8 +5,6 @@ import Router from "vue-router";
 import Home from "./components/Home"
 import Studentp from "./components/Studentp";
 
-
-
 Vue.use(Router);
 
 

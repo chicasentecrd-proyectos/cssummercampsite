@@ -1,13 +1,14 @@
 <template>
   <div id="home">
+
     <!-- Header Section -->
-    <section class="h-screen px-12 sm:px-24 relative w-full bg-cover" style="background-color: #f8d147">
+    <section class="  px-20 relative w-full bg-cover" style="background-color: #f8d147">
        <header>
-           <div class="flex justify-between items-center ">
+           <div class="flex justify-between items-center  ">
                <div>
                  <!-- <img class="logo" src="./assets/logo.png" /> -->
                </div>
-               <div class="justify-center space-x-4 hidden sm:block my-3 ml-20">
+               <div class="justify-center space-x-4 hidden sm:block my-5 ml-20">
                  <!-- <router-link :to="{ name: 'StudentWork' }">About</router-link> -->
                  <!-- <router-view></router-view> -->
                    <a href="#aboutus" class="text-white font-semibold text-lg hover:text-blue-400">About Us and Our Donors</a>
@@ -25,11 +26,12 @@
                </div>
            </div>
        </header>
-           <div class="grid grid-cols-2 ">
-               <div class="col-span-12 sm:col-span-12 md:col-span-12 lg:col-span-8 xxl:col-span-12">
-                   <div class="w-full">
-                       <h1 class="text-5xl sm:text-5xl lg:text-5xl xl:text-9xl text-white font-bold ">Computer <img class="logo " src="../assets/girlclipart.png" />Science <br>
+           <div class="grid grid-cols-1 ">
+               <div class="col-span-1 sm:col-span-10 md:col-span-10 lg:col-span-10 xxl:col-span-9 ">
+                   <div class="">
+                       <h1 class="text-8xl  text-white font-bold ">Computer <img class="logo " src="../assets/girlclipart.png" />Science <br>
                            Summer Camp <br> <span class="text-pink-400"> For Girls</span> <span class="text-blue-400"> D</span>.<span class="text-red-400">R</span>.</h1>
+
                    </div>
                </div>
            </div>
@@ -72,8 +74,8 @@
                   <p class="text-black">Fill out the form below to send us a message.</p>
               </div>
               <div class="m-7">
-                  <form action="https://api.web3forms.com/submit" method="POST" id="form">
-                      <input type="hidden" name="apikey" value="ad487da6-6a17-4490-9501-ec867a7a4c03">
+                  <form action="https://getform.io/f/d6470895-f3eb-478f-8e59-3440810ad7e6" method="POST" id="form">
+                      <!-- <input type="hidden" name="apikey" value="ad487da6-6a17-4490-9501-ec867a7a4c03"> -->
                       <input type="hidden" name="subject" value="New Submission from CS Summer DR">
                       <input type="checkbox" name="botcheck" id="" style="display: none;">
 
@@ -104,6 +106,7 @@
 </section>
 
 
+
 <!-- Footer -->
    <section class="h-full bg-gray-800">
             <div class="py-6 px-16 flex justify-between">
@@ -128,6 +131,7 @@
                 </div>
             </div>
         </section>
+
       </div>
 </template>
 
@@ -149,17 +153,14 @@
 
 }
 
+
 </style>
 
 
 
+<!-- // <script> -->
 
-<script>
-
-  export default {
-    name: "Home"
-  }
-
-
-
-</script>
+<!-- //   export default {
+//     name: "Home"
+// } -->
+<!-- // </script> -->
