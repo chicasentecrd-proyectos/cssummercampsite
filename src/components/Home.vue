@@ -2,7 +2,7 @@
   <div id="home">
 
     <!-- Header Section -->
-    <section class="  px-20 relative w-full bg-cover" style="background-color: #f8d147">
+    <section class="  px-20 relative w-full bg-cover" style="background-color: #FFFFFF">
        <header>
            <div class="flex justify-between items-center  ">
                <div>
@@ -11,10 +11,10 @@
                <div class="justify-center space-x-4 hidden sm:block my-5 ml-20">
                  <!-- <router-link :to="{ name: 'StudentWork' }">About</router-link> -->
                  <!-- <router-view></router-view> -->
-                   <a href="#aboutus" class="text-white font-semibold text-lg hover:text-blue-400">About Us and Our Donors</a>
-                   <router-link to="/student" class="text-white font-semibold text-lg hover:text-blue-400">Student Portfolios</router-link>
+                   <a href="#aboutus" class=" font-semibold text-lg hover:text-blue-400">About Us and Our Donors</a>
+                   <router-link to="/student" class=" font-semibold text-lg hover:text-blue-400">Student Portfolios</router-link>
                    <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
-                   <a href="#contact" class="text-white font-semibold text-lg hover:text-blue-400"> Contact us </a>
+                   <a href="#contact" class=" font-semibold text-lg hover:text-blue-400"> Contact us </a>
                </div>
                <div class="flex  hidden sm:block">
                    <button
@@ -29,8 +29,8 @@
            <div class="grid grid-cols-1 ">
                <div class="col-span-1 sm:col-span-10 md:col-span-10 lg:col-span-10 xxl:col-span-9 ">
                    <div class="">
-                       <h1 class="text-8xl  text-white font-bold ">Computer <img class="logo " src="../assets/girlclipart.png" />Science <br>
-                           Summer Camp <br> <span class="text-pink-400"> For Girls</span> <span class="text-blue-400"> D</span>.<span class="text-red-400">R</span>.</h1>
+                       <h1 class="text-9xl   font-bold ">Computer <img class="logo " src="../assets/girlclipart.png" />Science <br>
+                           Summer Camp <br> <span class="text-pink-400"> For Girls</span> <span style="color: #002962"> D</span>.<span style="color: #D62F44">R</span>.</h1>
 
                    </div>
                </div>
@@ -41,23 +41,69 @@
      <section class="h-full bg-yellow-300 text-center">
            <div class="grid grid-cols-12 gap-0">
                <div
-                   class="col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6 h-full px-16 py-6" style="background-color: #7dd959">
+                   class="col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6 h-full px-16 py-6" style="background-color: #002962">
                    <div>
-                       <h1 class="text-white font-semibold text-7xl" id="aboutus" >About Us</h1>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus. Phasellus at accumsan magna, sit amet interdum nisl. Maecenas non dui libero. Maecenas dictum pellentesque euismod. Cras fermentum augue et sodales blandit. Vivamus commodo rhoncus dui, non suscipit risus pretium eu. Nullam sagittis vestibulum tellus in aliquet. Sed maximus lectus id diam maximus, at semper orci scelerisque. Curabitur rutrum luctus tellus quis euismod. Integer ultrices congue vehicula. </p>
+                       <h1 class="text-white font-semibold text-7xl mb-3" id="aboutus" >About Us</h1>
+                       <p class="text-white font-semibold"> When I emigrated from the Dominican Republic to the U.S. I had no idea the opportunities I would run into. In high school an after-school program for underprivileged kids brought computer science education into my life. Today, a college graduate with a degree in CS, I am able to return the favor back to my community by bringing that same education to underprivileged girls in the D.R. In this 5-week summer program the girls learn how to make websites using HTML and CSS. They also learn how to be agents of change in their communities and are empowered to do so through this new skill. All this work is made possible by my parents Justo Peña y Mercedes Torrez, my dearest college friends and colleagues Isabel Gomez and Mikael Moise, the Universidad Nacional Evangélica in D.R., and of course our donors.
+                       </p>
                    </div>
                </div>
                <div
-                   class="col-span-none sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6 bg-blue-400 h-full px-16 py-6 ">
-                   <div class="">
-                       <h1 class="text-white font-semibold text-7xl">Our Donors</h1>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus. Phasellus at accumsan magna, sit amet interdum nisl. Maecenas non dui libero. Maecenas dictum pellentesque euismod. Cras fermentum augue et sodales blandit. Vivamus commodo rhoncus dui, non suscipit risus pretium eu. Nullam sagittis vestibulum tellus in aliquet. Sed maximus lectus id diam maximus, at semper orci scelerisque. Curabitur rutrum luctus tellus quis euismod. Integer ultrices congue vehicula. </p>
-                       <button
+                   class="col-span-none sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6  h-full px-16 py-6 " style="background-color: #D62F44">
+                   <div class="font-semibold text-white">
+                       <h1 class="text-white font-semibold text-7xl mb-3">Our Donors</h1>
+                       <div style="float: left; width: 33%;" >
+                          <ul>
+                            <li>Albert Kim</li>
+                            <li>Alexis Kilayko</li>
+                            <li>Alina Siminiouk</li>
+                            <li>Annika Miller</li>
+                            <li>Mikael Moise</li>
+                            <li>Dennique Khanns</li>
+                            <li>Din Tolbert</li>
+                            <li>Emely Ruiz</li>
+                            <li>Erin Walsh</li>
+                            <li>George Reilly</li>
+                          </ul>
+                        </div>
+                        <div style="float: left; width: 33%;">
+                          <ul>
+                              <li>Gwen Spencer</li>
+                              <li>Hannah Vogel</li>
+                              <li>Jamaya Smith</li>
+                              <li>Jessica Lee</li>
+                              <li>Lauren Guerrant</li>
+                              <li>Lindsay Swanson</li>
+                              <li>Lisselot Martinez</li>
+                              <li>Madeline Pfaff</li>
+                              <li>Madineh Sarvestani</li>
+                              <li>Madison Bates</li>
+                          </ul>
+                          </div>
+                          <div style="float: right; width: 33%;">
+                          <ul>
+                            <li>Michael Lewis</li>
+                            <li>Miles Ott</li>
+                            <li>Patricia Stallings</li>
+                            <li>Peter de Villiers</li>
+                            <li>Shreya Malena-Sannon</li>
+                            <li>Sushmitha Ram</li>
+                            <li>Suzanne Emerson</li>
+                            <li>Whitney Wilde</li>
+                            <li>14 other anonymous donors</li>
+                          </ul>
+                      </div>
+                      <p class="text-2xl text-yellow-400"> We Thank You! </p>
+
+
+
+
+                       <!-- <button
                            class="my-6 bg-gradient-to-b from-green-400 to-green-500  text-white font-bold py-2 px-4 rounded-lg uppercase text-sm  shadow-xl">
                            <a href="https://gofund.me/b31eda56">
                            Donate Here!
                          </a>
-                       </button>
+                       </button> -->
                    </div>
                </div>
            </div>
@@ -66,9 +112,9 @@
 
 <!-- Contact Us -->
 <section id="contact">
-  <div class="flex items-center " style="background-color: #6c81a5">
+  <div class="flex items-center bg-pink-400 " >
       <div class="container mx-auto ">
-          <div class="m-14 my-14 bg-white p-5 rounded-md shadow-sm ">
+          <div class="m-14 my-14 bg-white p-5 rounded-md shadow-2xl ">
               <div class="text-center">
                   <h1 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Contact Us</h1>
                   <p class="text-black">Fill out the form below to send us a message.</p>
@@ -153,14 +199,13 @@
 
 }
 
-
 </style>
 
 
 
-<!-- // <script> -->
+ <script>
 
-<!-- //   export default {
-//     name: "Home"
-// } -->
-<!-- // </script> -->
+export default {
+  name: "Home"
+ }
+ </script>
