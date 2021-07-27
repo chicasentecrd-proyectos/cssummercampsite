@@ -29,8 +29,8 @@
            <div class="grid grid-cols-1 ">
                <div class="col-span-1 sm:col-span-10 md:col-span-10 lg:col-span-10 xxl:col-span-9 ">
                    <div class="">
-                       <h1 class="text-9xl text-white  font-bold ">Computadora <br> Ciencia <br>
-                          Verano <br> Acampar <br> <span class="text-pink-400"> Para Chicas </span> <span style="color: #002962"> D</span>.<span style="color: #D62F44">R</span>.</h1>
+                       <h1 class="text-9xl text-white  font-bold ">Campamento <br>  de Verano <br>
+                          de  <br> Informática <br> <span class="text-pink-400"> para Chicas 2021 </span> <span style="color: #002962"> D</span>.<span style="color: #D62F44">R</span>.</h1>
 
                    </div>
                </div>
