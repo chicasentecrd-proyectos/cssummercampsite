@@ -9,14 +9,14 @@
             <div>
               <!-- <router-link :to="{ name: 'StudentWork' }">About</router-link> -->
               <!-- <router-view></router-view> -->
-                <router-link to="/" class="text-white font-semibold text-lg hover:text-blue-400">Back Home</router-link>
+                <router-link to="/" class="text-white font-semibold text-lg hover:text-blue-400">Volver a casa</router-link>
                 <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
             </div>
             <div  class="button flex  hidden sm:block">
                 <button
                     class="bg-gradient-to-b from-green-400 to-green-500 text-white font-bold py-2 px-2 rounded-lg uppercase text-sm  shadow-xl">
                     <a href="https://gofund.me/b31eda56">
-                    DONATE HERE
+                    DONA AQUÍ!
                   </a>
                 </button>
             </div>
@@ -24,7 +24,7 @@
     </header>
     <div>
       <div class="relative items-center justify-center">
-        <h1 class="text-center text-7xl font-bold p-4  text-white">Student Portfolios!</h1>
+        <h1 class="text-center text-7xl font-bold p-4  text-white">Portafolios de estudiantes!</h1>
         <div class="lg:flex items-center container mx-auto my-auto">
           <!-- Alisha Nicole Polanco Gutiérrez -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8 ">
@@ -32,7 +32,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Alisha Nicole Polanco Gutiérrez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="https://cssummercampd-r.github.io/mayelineportfolio/" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -42,7 +42,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Ana Yudelka Cabrera</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -52,7 +52,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Biannely Toribio</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -79,7 +79,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -106,7 +106,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -159,7 +159,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>
@@ -172,7 +172,7 @@
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
               <div class="mt-5">
-                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">View Portfolio</a>
+                <a href="" class="hover:bg-gray-700 rounded-full py-2 px-3 font-semibold hover:text-white bg-gray-400 text-gray-100">Ver portafolio</a>
               </div>
             </div>
           </div>

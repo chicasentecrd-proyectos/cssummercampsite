@@ -4,7 +4,9 @@ import './index.css'
 import Router from "vue-router";
 import Home from "./components/Home"
 import Studentp from "./components/studentp"
+import VueSplide from '@splidejs/vue-splide';
 
+Vue.use( VueSplide );
 Vue.use(Router);
 
 

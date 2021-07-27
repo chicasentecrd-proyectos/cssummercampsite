@@ -2,25 +2,25 @@
   <div id="home">
 
     <!-- Header Section -->
-    <section class="  px-20 relative w-full bg-cover" style="background-color: #FFFFFF">
+    <section class="px-20 relative w-full bg-cover" style="background-image: url('https://i.ibb.co/Bc1DMF2/girlsy.png')" >
        <header>
            <div class="flex justify-between items-center  ">
                <div>
                  <!-- <img class="logo" src="./assets/logo.png" /> -->
                </div>
-               <div class="justify-center space-x-4 hidden sm:block my-5 ml-20">
+               <div class="bg-pink-400 py-2 px-2 rounded-full justify-center space-x-4 hidden sm:block my-5 ml-20">
                  <!-- <router-link :to="{ name: 'StudentWork' }">About</router-link> -->
                  <!-- <router-view></router-view> -->
-                   <a href="#aboutus" class=" font-semibold text-lg hover:text-blue-400">About Us and Our Donors</a>
-                   <router-link to="/student" class=" font-semibold text-lg hover:text-blue-400">Student Portfolios</router-link>
+                   <a href="#aboutus" class=" font-bold text-xl text-white hover:text-yellow-400">Sobre nosotros y nuestros donantes</a>
+                   <router-link to="/student" class="  font-bold text-xl text-white hover:text-yellow-400">Portafolios De Estudiantes</router-link>
                    <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
-                   <a href="#contact" class=" font-semibold text-lg hover:text-blue-400"> Contact us </a>
+                   <a href="#contact" class=" font-bold text-white text-xl hover:text-yellow-400"> Contacta Con Nosotros </a>
                </div>
                <div class="flex  hidden sm:block">
                    <button
                        class="bg-gradient-to-b from-green-400 to-green-500 text-white font-bold py-2 px-2 rounded-lg uppercase text-sm  shadow-xl">
                        <a href="https://gofund.me/b31eda56">
-                       DONATE HERE!
+                       DONE AQUÍ!
                      </a>
                    </button>
                </div>
@@ -29,8 +29,8 @@
            <div class="grid grid-cols-1 ">
                <div class="col-span-1 sm:col-span-10 md:col-span-10 lg:col-span-10 xxl:col-span-9 ">
                    <div class="">
-                       <h1 class="text-9xl   font-bold ">Computer <img class="logo " src="../assets/girlclipart.png" />Science <br>
-                           Summer Camp <br> <span class="text-pink-400"> For Girls</span> <span style="color: #002962"> D</span>.<span style="color: #D62F44">R</span>.</h1>
+                       <h1 class="text-9xl text-white  font-bold ">Computadora <br> Ciencia <br>
+                          Verano <br> Acampar <br> <span class="text-pink-400"> Para Chicas </span> <span style="color: #002962"> D</span>.<span style="color: #D62F44">R</span>.</h1>
 
                    </div>
                </div>
@@ -43,15 +43,15 @@
                <div
                    class="col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6 h-full px-16 py-6" style="background-color: #002962">
                    <div>
-                       <h1 class="text-white font-semibold text-7xl mb-3" id="aboutus" >About Us</h1>
-                       <p class="text-white font-semibold"> When I emigrated from the Dominican Republic to the U.S. I had no idea the opportunities I would run into. In high school an after-school program for underprivileged kids brought computer science education into my life. Today, a college graduate with a degree in CS, I am able to return the favor back to my community by bringing that same education to underprivileged girls in the D.R. In this 5-week summer program the girls learn how to make websites using HTML and CSS. They also learn how to be agents of change in their communities and are empowered to do so through this new skill. All this work is made possible by my parents Justo Peña y Mercedes Torrez, my dearest college friends and colleagues Isabel Gomez and Mikael Moise, the Universidad Nacional Evangélica in D.R., and of course our donors.
+                       <h1 class="text-white font-semibold text-7xl mb-3" id="aboutus" >Sobre nosotros</h1>
+                       <p class="text-white font-semibold"> Cuando emigré de República Dominicana a Estados Unidos, no tenía idea de las oportunidades que tendría. En la escuela secundaria, un programa extracurricular para niños desfavorecidos trajo la educación en ciencias de la computación a mi vida. Hoy, graduada de la universidad con un título en informática, puedo devolver el favor a mi comunidad al llevar esa misma educación a las niñas desfavorecidas en la República Dominicana. En este programa de verano de 5 semanas, las niñas aprenden a crear sitios web usando HTML y CSS. También aprenden a ser agentes de cambio en sus comunidades y están capacitados para hacerlo a través de esta nueva habilidad. Todo este trabajo es posible gracias a mis padres Justo Peña y Mercedes Torrez, mis más queridos amigos y colegas de la universidad Isabel Gómez y Mikael Moise, la Universidad Nacional Evangélica en R.D., y por supuesto nuestros donantes.
                        </p>
                    </div>
                </div>
                <div
                    class="col-span-none sm:col-span-12 md:col-span-6 lg:col-span-6 xxl:col-span-6  h-full px-16 py-6 " style="background-color: #D62F44">
                    <div class="font-semibold text-white">
-                       <h1 class="text-white font-semibold text-7xl mb-3">Our Donors</h1>
+                       <h1 class="text-white font-semibold text-6xl mb-7">Nuestros Donantes</h1>
                        <div style="float: left; width: 33%;" >
                           <ul>
                             <li>Albert Kim</li>
@@ -93,21 +93,15 @@
                             <li>14 other anonymous donors</li>
                           </ul>
                       </div>
-                      <p class="text-2xl text-yellow-400"> We Thank You! </p>
-
-
-
-
-                       <!-- <button
-                           class="my-6 bg-gradient-to-b from-green-400 to-green-500  text-white font-bold py-2 px-4 rounded-lg uppercase text-sm  shadow-xl">
-                           <a href="https://gofund.me/b31eda56">
-                           Donate Here!
-                         </a>
-                       </button> -->
+                      <p class="text-2xl text-yellow-400"> Nosotros Gracias! </p>
                    </div>
                </div>
            </div>
        </section>
+
+
+
+
 
 
 <!-- Contact Us -->
@@ -116,8 +110,8 @@
       <div class="container mx-auto ">
           <div class="m-14 my-14 bg-white p-5 rounded-md shadow-2xl ">
               <div class="text-center">
-                  <h1 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Contact Us</h1>
-                  <p class="text-black">Fill out the form below to send us a message.</p>
+                  <h1 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Contacta con nosotros!</h1>
+                  <p class="text-black">Complete el siguiente formulario para enviarnos un mensaje.</p>
               </div>
               <div class="m-7">
                   <form action="https://getform.io/f/d6470895-f3eb-478f-8e59-3440810ad7e6" method="POST" id="form">
@@ -126,20 +120,20 @@
                       <input type="checkbox" name="botcheck" id="" style="display: none;">
 
                       <div class="mb-6">
-                          <label for="name" class="font-semibold block mb-2 text-sm text-gray-600 dark:text-gray-400">Full Name</label>
+                          <label for="name" class="font-semibold text-lg block mb-2 text-sm text-gray-600 dark:text-gray-400">Nombre completo</label>
                           <input type="text" name="name" id="name" placeholder="John Doe" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
                       </div>
                       <div class="mb-6">
-                          <label for="email" class="font-semibold block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Address</label>
+                          <label for="email" class="font-semibold block text-lg mb-2 text-sm text-gray-600 dark:text-gray-400">Dirección de correo electrónico</label>
                           <input type="email" name="email" id="email" placeholder="you@company.com" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
                       </div>
                       <div class="mb-6">
-                          <label for="message" class="font-semibold block mb-2 text-sm text-gray-600 dark:text-gray-400">Your Message</label>
-                          <textarea rows="5" name="message" id="message" placeholder="Send us a note!" class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
+                          <label for="message" class="font-semibold text-lg block mb-2 text-sm text-gray-600 dark:text-gray-400">Tu mensaje</label>
+                          <textarea rows="5" name="message" id="message" placeholder="Envíanos una nota!" class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
                       </div>
                       <div class="mb-6">
 
-                          <button type="submit" class="w-full px-3 py-4 text-white bg-indigo-500 rounded-md focus:outline-none" style="background-color: #7dd959">Send Message</button>
+                          <button type="submit" class="w-full text-lg font-bold px-3 py-4 text-white bg-indigo-500 rounded-md focus:outline-none" style="background-color: #7dd959">Enviar mensaje!</button>
 
                       </div>
                       <p class="text-base text-center text-gray-400" id="result">
@@ -150,6 +144,8 @@
       </div>
   </div>
 </section>
+
+
 
 
 
@@ -182,6 +178,8 @@
 </template>
 
 <style>
+
+
 .footerlogo{
   height: 5rem;
   width: 5rem;
@@ -201,11 +199,6 @@
 
 </style>
 
-
-
  <script>
 
-export default {
-  name: "Home"
- }
- </script>
+</script>
