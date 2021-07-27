@@ -60,8 +60,7 @@
         <div class="lg:flex items-center container mx-auto my-auto">
           <!-- Card 1 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8 ">
-            <!-- <img src="https://picsum.photos/id/29/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -72,9 +71,7 @@
           </div>
           <!-- Card 2 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/247/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -85,9 +82,7 @@
           </div>
           <!-- Card 3 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/342/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -100,8 +95,7 @@
         <div class="lg:flex items-center container mx-auto my-auto">
           <!-- Card 1 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8 ">
-            <!-- <img src="https://picsum.photos/id/29/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -112,9 +106,7 @@
           </div>
           <!-- Card 2 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/247/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+            
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -125,9 +117,7 @@
           </div>
           <!-- Card 3 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/342/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -140,8 +130,7 @@
         <div class="lg:flex items-center container mx-auto my-auto">
           <!-- Card 1 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8 ">
-            <!-- <img src="https://picsum.photos/id/29/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -152,9 +141,7 @@
           </div>
           <!-- Card 2 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/247/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -165,9 +152,7 @@
           </div>
           <!-- Card 3 -->
           <div class="lg:m-4 shadow-md hover:shadow-lg hover:bg-gray-100 rounded-lg bg-white my-12 mx-8">
-            <!-- Card Image -->
-            <!-- <img src="https://picsum.photos/id/342/2106/1404" class=" rounded-lg overflow-hidden"> -->
-            <!-- Card Content -->
+
             <div class="p-4">
               <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">Yissendy Jimenez</h3>
               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum justo eu iaculis cursus.</p>
@@ -191,16 +176,7 @@
               <div>
                   <h1 class="font-semibold text-white text-sm">CSSUMMERDR @ 2021</h1>
               </div>
-              <div>
-                  <a href="#" class="flex space-x-2 text-white hover:text-yellow-400">
-                      <p class="font-semibold  text-sm">GO TOP</p>
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6  -mt-1" fill="none" viewBox="0 0 24 24"
-                          stroke="currentColor">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                              d="M8 7l4-4m0 0l4 4m-4-4v18" />
-                      </svg>
-                  </a>
-              </div>
+
           </div>
       </section>
     </div>
