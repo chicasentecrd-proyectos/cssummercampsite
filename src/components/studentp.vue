@@ -71,7 +71,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Alisha Nicole Polanco Gutiérrez
                 </h3>
                 <p class="text-justify">
@@ -81,7 +81,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/alishaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -111,7 +111,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Ana Yudelka Cabrera
                 </h3>
                 <p class="text-justify">
@@ -120,7 +120,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/anaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -150,7 +150,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Biannely Toribio
                 </h3>
                 <p class="text-justify">
@@ -160,7 +160,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/biannelyportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -193,7 +193,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Camil Nicole Inoa Peralta
                 </h3>
                 <p class="text-justify">
@@ -204,7 +204,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/camilportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -234,7 +234,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Claudia Ferrera Mateo
                 </h3>
                 <p class="text-justify">
@@ -245,7 +245,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/claudiaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -275,7 +275,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Euleidy Gómez Hernández
                 </h3>
                 <p class="text-justify">
@@ -288,7 +288,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/euleidyportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -321,7 +321,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Kathifer Fernanda Rodríguez Jiménez
                 </h3>
                 <p class="text-justify">
@@ -332,7 +332,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/kathiferportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -362,7 +362,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Laisha Nicole Polanco Gutiérrez
                 </h3>
                 <p class="text-justify">
@@ -372,7 +372,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/laishaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -402,7 +402,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Linette Leonardo Domínguez
                 </h3>
                 <p class="text-justify">
@@ -412,7 +412,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/linetteportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -445,7 +445,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Ruth Mariel Martínez Valerio
                 </h3>
                 <p class="text-justify">
@@ -455,7 +455,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/ruthportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -485,7 +485,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Sharlenys Sosa Rodríguez
                 </h3>
                 <p class="text-justify">
@@ -495,7 +495,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/sharlenysporfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -525,7 +525,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Vanessa Francheska Diaz
                 </h3>
                 <p class="text-justify">
@@ -536,7 +536,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/vanessaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -569,7 +569,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Yaritza Herrera
                 </h3>
                 <p class="text-justify">
@@ -578,7 +578,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/yaritzaportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -608,7 +608,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Yasmeiryn Altagracia Rodríguez
                 </h3>
                 <p class="text-justify">
@@ -619,7 +619,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/yasmeirynportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full
@@ -649,7 +649,7 @@
               "
             >
               <div class="p-4">
-                <h3 class="font-medium text-gray-600 text-lg my-2 uppercase">
+                <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Yonairy Teresa Almonte Toribio
                 </h3>
                 <p class="text-justify">
@@ -659,7 +659,7 @@
                 </p>
                 <div class="mt-5">
                   <a
-                    href=""
+                    href="https://cssummercampd-r.github.io/yonairyportfolio21/"
                     class="
                       hover:bg-gray-700
                       rounded-full

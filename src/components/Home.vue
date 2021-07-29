@@ -1,34 +1,33 @@
 <template>
   <div id="home">
     <!-- Header Section -->
-    <section
-      class="px-20 relative w-full bg-cover"
-      style="background-image: url('https://i.ibb.co/Bc1DMF2/girlsy.png')"
-    >
+    <section >
+
+    <div class="px-20 relative w-full bg-cover" :style="{'background-image': 'url(' + require('/src/assets/girlsy.png') + ')'}">
       <header>
         <div class="flex justify-between items-center  ">
           <div>
             <!-- <img class="logo" src="./assets/logo.png" /> -->
           </div>
           <div
-            class="bg-pink-400 py-2 px-2 rounded-full justify-center space-x-4 hidden sm:block my-5 ml-20"
+            class=" justify-center space-x-4 hidden sm:block my-5 ml-20"
           >
             <!-- <router-link :to="{ name: 'StudentWork' }">About</router-link> -->
             <!-- <router-view></router-view> -->
             <a
               href="#aboutus"
-              class=" font-bold text-xl text-white hover:text-yellow-400"
+              class="bg-pink-400 py-2 px-2 rounded-full font-bold text-xl text-white hover:text-yellow-400"
               >Sobre Nosotros</a
             >
             <router-link
               to="/student"
-              class="  font-bold text-xl text-white hover:text-yellow-400"
+              class="  bg-pink-400 py-2 px-2 rounded-full font-bold text-xl text-white hover:text-yellow-400"
               >Portafolios De Estudiantes</router-link
             >
             <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
             <a
               href="#contact"
-              class=" font-bold text-white text-xl hover:text-yellow-400"
+              class=" bg-pink-400 py-2 px-2 rounded-full font-bold text-white text-xl hover:text-yellow-400"
             >
               Contactenos
             </a>
@@ -61,6 +60,7 @@
               >.
             </h1>
           </div>
+        </div>
         </div>
       </div>
     </section>
