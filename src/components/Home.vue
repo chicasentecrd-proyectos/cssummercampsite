@@ -303,13 +303,47 @@ export default {
     data(){
         return {
             slides: [
-                'https://picsum.photos/id/230/600/300',
-                'https://picsum.photos/id/231/600/300',
-                'https://picsum.photos/id/232/600/300',
-                'https://picsum.photos/id/233/600/300',
-                'https://picsum.photos/id/234/600/300',
-                'https://picsum.photos/id/235/600/300',
-                'https://picsum.photos/id/236/600/300',
+                'https://i.imgur.com/HmCfXfM.jpg',
+                'https://i.imgur.com/IULJzQA.jpg',
+                'https://i.imgur.com/u7oZt9e.jpg',
+                'https://i.imgur.com/VW8IgGs.jpg',
+                'https://i.imgur.com/aVRsTCj.jpg',
+                'https://i.imgur.com/htIh2tb.jpg',
+                'https://i.imgur.com/b9m87RV.jpg',
+                'https://i.imgur.com/OHiHGwd.jpg',
+                'https://i.imgur.com/Jt79Dau.jpg',
+                'https://i.imgur.com/Lg08PPN.jpg',
+                'https://i.imgur.com/IBZzdNY.jpg',
+                'https://i.imgur.com/A3UTvJo.jpg',
+                'https://i.imgur.com/2SvyWog.jpg',
+                'https://i.imgur.com/fz5xZ0x.jpg',
+                'https://i.imgur.com/cu8rzlR.jpg',
+                'https://i.imgur.com/TJWSV68.jpg',
+                'https://i.imgur.com/psmecLH.jpg',
+                'https://i.imgur.com/JrbWr05.jpg',
+                'https://i.imgur.com/DDDgAsn.jpg',
+                'https://i.imgur.com/qXRifVC.jpg',
+                'https://i.imgur.com/VVVqSe8.jpg',
+                'https://i.imgur.com/vwoqpzA.jpg',
+                'https://i.imgur.com/PnBwHab.jpg',
+                'https://i.imgur.com/ezULzLh.jpg',
+                'https://i.imgur.com/MwNLd8W.jpg',
+                'https://i.imgur.com/vqdLd15.jpg',
+                'https://i.imgur.com/NOicq1J.jpg',
+                'https://i.imgur.com/ErjgUDk.jpg',
+                'https://i.imgur.com/f087iaB.jpg',
+                'https://i.imgur.com/gNaR3AU.jpg',
+                'https://i.imgur.com/ZKzvPds.jpg',
+                'https://i.imgur.com/bqo44Uf.jpg',
+                'https://i.imgur.com/elOlwDO.jpg',
+                'https://i.imgur.com/LQtyGtH.jpg',
+                'https://i.imgur.com/DYCTx53.jpg',
+                'https://i.imgur.com/Ouh0ujY.jpg',
+                'https://i.imgur.com/22nSibV.jpg',
+                'https://i.imgur.com/5Ubu2wC.jpg',
+                'https://i.imgur.com/Kg5bFo8.jpg',
+                'https://i.imgur.com/heUKLXR.jpg',
+                'https://i.imgur.com/B066CUn.jpg'
             ]
         }
     },
@@ -332,11 +366,12 @@ export default {
         z-index:10;
     }
     .btn {
-        padding:5px 10px;
+      border-radius: 50%;
         background-color:rgba(0,0,0,0.5);
         border:1px solid transparent;
         margin:5px 10px;
         color:#FFF;
+        font-weight: bold;
         height:50px;
         width:50px;
         position:absolute;
