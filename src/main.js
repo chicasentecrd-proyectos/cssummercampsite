@@ -5,6 +5,7 @@ import Router from "vue-router";
 import Home from "./components/Home"
 import Studentp from "./components/studentp"
 
+
 Vue.use(Router);
 
 
@@ -27,5 +28,5 @@ Vue.config.productionTip = false
 
 new Vue({
   router,
-  render: h => h(App),
+  render: h => h(App)
 }).$mount('#app')
