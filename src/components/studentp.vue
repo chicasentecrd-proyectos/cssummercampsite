@@ -54,7 +54,7 @@
       <div>
         <div class="relative items-center justify-center">
           <h1 class="text-center text-7xl font-bold p-4 text-white">
-            Portafolios de estudiantes!
+            ¡Portafolios de estudiantes!
           </h1>
           <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Alisha Nicole Polanco Gutiérrez -->
@@ -177,6 +177,7 @@
               </div>
             </div>
           </div>
+
           <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Camil Nicole Inoa Peralta -->
             <div
@@ -304,6 +305,7 @@
               </div>
             </div>
           </div>
+
           <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Kathifer Fernanda Rodríguez Jiménez -->
             <div
@@ -427,6 +429,7 @@
               </div>
             </div>
           </div>
+
           <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Ruth Mariel Martínez Valerio -->
             <div
@@ -549,6 +552,9 @@
                 </div>
               </div>
             </div>
+          </div>
+
+          <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Yaritza Herrera -->
             <div
               class="
@@ -670,6 +676,7 @@
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>
