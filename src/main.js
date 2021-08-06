@@ -4,6 +4,7 @@ import './index.css'
 import Router from "vue-router";
 import Home from "./components/Home"
 import Studentp from "./components/studentp"
+import Gallery from "./components/Gallery"
 
 
 Vue.use(Router);
@@ -15,6 +16,10 @@ const routes = [
   },
   {
     path: "/student", component: Studentp
+  },
+  {
+    path: "/gallery", component: Gallery
+
   }
 ];
 
