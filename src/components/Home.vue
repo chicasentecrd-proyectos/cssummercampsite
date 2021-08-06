@@ -142,8 +142,7 @@
         </div>
       </div>
     </section>
-
-    <section class="w-full flex justify-center">
+    <section class=" flex justify-center py-2">
       <div>
         <carousel>
             <carousel-slide v-for="slide in slides" :key="slide" class="carousel-slider">
@@ -152,16 +151,18 @@
         </carousel>
       </div>
 
-      <button class="bg-gradient-to-b from-green-400 to-green-500 text-white font-bold py-2 px-2 rounded-lg uppercase text-sm  shadow-xl"
-            >
-            <router-link
-              to="/gallery"
-              class="  font-bold text-xl text-white hover:text-yellow-400"
-              >View More </router-link
-            >
-      </button>
-    </section>
 
+    </section>
+    <section class="justify-center flex py-2">
+      <button class=" bg-red-400 text-white font-bold py-2 px-2 rounded-lg text-sm  shadow-xl"
+          >
+          <router-link
+            to="/gallery"
+            class="  font-bold text-xl text-white hover:text-yellow-400"
+            >Ver Más Aquí</router-link
+          >
+        </button>
+  </section>
 
     <!-- Contact Us -->
     <section id="contact">
