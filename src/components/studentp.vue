@@ -30,25 +30,6 @@
             >
             <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
           </div>
-          <div class="button flex hidden sm:block">
-            <button
-              class="
-                bg-gradient-to-b
-                from-green-400
-                to-green-500
-                text-white
-                font-bold
-                py-2
-                px-2
-                rounded-lg
-                uppercase
-                text-sm
-                shadow-xl
-              "
-            >
-              <a href="https://gofund.me/b31eda56"> ¡DONA AQUÍ! </a>
-            </button>
-          </div>
         </div>
       </header>
       <div>
