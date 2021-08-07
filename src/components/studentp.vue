@@ -26,8 +26,8 @@
             <router-link
               to="/"
               class="text-white font-semibold text-lg hover:text-blue-400"
-              >Volver a casa</router-link
-            >
+              >Volver a casa</router-link>
+
             <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
           </div>
         </div>
@@ -657,7 +657,6 @@
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </section>

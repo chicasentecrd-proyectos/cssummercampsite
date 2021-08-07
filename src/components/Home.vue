@@ -309,12 +309,7 @@ export default {
                 'https://i.imgur.com/HmCfXfM.jpg',
                 'https://i.imgur.com/IULJzQA.jpg',
                 'https://i.imgur.com/u7oZt9e.jpg',
-                'https://i.imgur.com/VW8IgGs.jpg',
-                'https://i.imgur.com/aVRsTCj.jpg',
-                'https://i.imgur.com/htIh2tb.jpg',
-                'https://i.imgur.com/b9m87RV.jpg',
-                'https://i.imgur.com/OHiHGwd.jpg',
-                'https://i.imgur.com/Jt79Dau.jpg'
+                'https://i.imgur.com/VW8IgGs.jpg'
             ]
         }
     },

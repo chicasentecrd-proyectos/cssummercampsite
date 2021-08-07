@@ -5,9 +5,7 @@ import Router from "vue-router";
 import Home from "./components/Home"
 import Studentp from "./components/studentp"
 import Gallery from "./components/Gallery"
-import ImageShadow from 'vue-image-shadow'
 
-Vue.component('image-shadow', ImageShadow)
 Vue.use(Router);
 
 
