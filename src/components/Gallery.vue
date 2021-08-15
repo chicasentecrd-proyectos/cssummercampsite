@@ -11,7 +11,6 @@
       bg-pink-400
     "
     >
-
     <header>
       <div class="flex">
         <div>
@@ -29,7 +28,6 @@
         </div>
       </div>
     </header>
-
   <div class=" relative items-center justify-center">
     <h1 class="text-center text-7xl font-bold p-4 text-white pb-8">
       Galería de fotos de verano 2021
@@ -45,7 +43,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src3">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src4">
@@ -59,7 +56,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src6">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src7">
@@ -73,7 +69,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src9">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src10">
@@ -87,8 +82,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src12">
         </div>
     </div>
-
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src13">
@@ -102,7 +95,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src15">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src16">
@@ -116,7 +108,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src18">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src19">
@@ -130,7 +121,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src21">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src22">
@@ -144,7 +134,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src24">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src25">
@@ -158,7 +147,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src27">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src28">
@@ -186,9 +174,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src33">
         </div>
     </div>
-
-
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src34">
@@ -202,8 +187,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src36">
         </div>
     </div>
-
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src37">
@@ -217,7 +200,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src39">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src40">
@@ -245,7 +227,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src46">
         </div>
     </div>
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src47">
@@ -259,8 +240,6 @@
           <img class="rounded shadow-md" :width="400" :src="this.src50">
         </div>
     </div>
-
-
     <div class="lg:flex items-center container mx-auto my-auto">
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src51">
@@ -315,19 +294,7 @@
         <div class=" lg:m-4 my-12 mx-8 ">
           <img class="rounded shadow-md" :width="400" :src="this.src63">
         </div>
-
-
     </div>
-
-
-
-
-
-
-
-
-
-
       </div>
     </section>
 
