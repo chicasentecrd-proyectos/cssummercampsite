@@ -189,6 +189,145 @@
 
 
 
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src34">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src35">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src36">
+        </div>
+    </div>
+
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src37">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src38">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src39">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src40">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src41">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src43">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src44">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src45">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src46">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src47">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src48">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src50">
+        </div>
+    </div>
+
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src51">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src53">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src54">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src55">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src56">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src57">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src58">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src59">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src60">
+        </div>
+    </div>
+
+    <div class="lg:flex items-center container mx-auto my-auto">
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src61">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src62">
+        </div>
+
+        <div class=" lg:m-4 my-12 mx-8 ">
+          <img class="rounded shadow-md" :width="400" :src="this.src63">
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
       </div>
     </section>
 
@@ -268,7 +407,33 @@
         src34: 'https://i.imgur.com/5Ubu2wC.jpg',
         src35: 'https://i.imgur.com/Kg5bFo8.jpg',
         src36: 'https://i.imgur.com/heUKLXR.jpg',
-        src37: 'https://i.imgur.com/B066CUn.jpg'
+        src37: 'https://i.imgur.com/B066CUn.jpg',
+        src38: 'https://i.imgur.com/SuKeXhQ.jpg',
+        src39: 'https://i.imgur.com/BoVvRdH.jpg',
+        src40: 'https://i.imgur.com/CpnXJKY.jpg',
+        src41: 'https://i.imgur.com/mTXWgl0.jpg',
+        src42: 'https://i.imgur.com/OlzO4XP.jpg',
+        src43: 'https://i.imgur.com/l5jGg1J.jpg',
+        src44: 'https://i.imgur.com/a2MVGHg.jpg',
+        src45: 'https://i.imgur.com/ENCHSeH.jpg',
+        src46: 'https://i.imgur.com/XuLzHBM.jpg',
+        src47: 'https://i.imgur.com/6eszMIK.jpg',
+        src48: 'https://i.imgur.com/MhF4nL9.jpg',
+        src49: 'https://i.imgur.com/XaHP0XV.jpg',
+        src50: 'https://i.imgur.com/lXZ9gXk.jpg',
+        src51: 'https://i.imgur.com/JCgtg2f.jpg',
+        src53: 'https://i.imgur.com/j0CeIbU.jpg',
+        src54: 'https://i.imgur.com/guGJdyg.jpg',
+        src55: 'https://i.imgur.com/EB9Rr5Q.jpg',
+        src56: 'https://i.imgur.com/c1emalx.jpg',
+        src57: 'https://i.imgur.com/3ufP52F.jpg',
+        src58: 'https://i.imgur.com/to2sfGA.jpg',
+        src59: 'https://i.imgur.com/8QViZus.jpg',
+        src60: 'https://i.imgur.com/2Sg4xg4.jpg',
+        src61: 'https://i.imgur.com/m5N5zNF.jpg',
+        src62: 'https://i.imgur.com/AHKs0m0.jpg',
+        src63: 'https://i.imgur.com/uDLGrBV.jpg'
+
       }
     }
   }
